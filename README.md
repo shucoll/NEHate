@@ -1,6 +1,6 @@
 # NEHate
 
-This repository contains the data and code for the paper "NEHATE: Large-Scale Annotated Data Shedding Light on Hate Speech in Nepali Local Election Discourse", accepted for publication at the ECAI(European Conference on Artificial Intelligence) 2023.
+This repository contains the data and code for the paper "NEHATE: Large-Scale Annotated Data Shedding Light on Hate Speech in Nepali Local Election Discourse", accepted for publication at the ECAI (European Conference on Artificial Intelligence) 2023.
 
 ## Abstract
 
